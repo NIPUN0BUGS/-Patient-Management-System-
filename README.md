@@ -6,8 +6,12 @@
   <br />
 
   <h1>preview</h1>
+
+   <div align="center">
+    preview this
+     <a href="https://patient-management-system-sigma.vercel.app/" target="_blank"><b>SMRKN</b></a> depelyed with vercel !
+    </div>
   
-Open [[http://localhost:3000](http://localhost:3000](https://patient-management-system-sigma.vercel.app/)) in your browser to view the project.
 
   <div>
     <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />

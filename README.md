@@ -5,11 +5,11 @@
     </a>
   <br />
 
-  <h1>preview</h1>
+  <h1>click to preview below</h1>
 
    <div align="center">
-    preview this
-     <a href="https://patient-management-system-sigma.vercel.app/" target="_blank"><b>SMRKN</b></a> depelyed with vercel !
+    👉👉
+     <a href="https://patient-management-system-sigma.vercel.app/" target="_blank"><b>SMRKN</b></a> deployed with vercel !
     </div>
   
 

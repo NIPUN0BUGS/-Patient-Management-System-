@@ -5,6 +5,10 @@
     </a>
   <br />
 
+  <h1>preview</h1>
+  
+Open [[http://localhost:3000](http://localhost:3000](https://patient-management-system-sigma.vercel.app/)) in your browser to view the project.
+
   <div>
     <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
     <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
